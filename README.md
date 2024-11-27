@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://piyush-borkar.vercel.app/](https://piyush-borkar.vercel.app/)
 
-- 💬 Ask me about **Full-Stack Web Development**
+- 💬 Ask me about **Full-Stack Web Development, JavaScript, React.js, Node.js, Express.js, MongoDB, MySQL, C++, Deployment.**
 
 - 📫 How to reach me **piyushborkar95@gmail.com**
 
