@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piyush Borkar</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working at Radical global in Nagpur, India<br>👯 I’m looking to collaborate on Collabify (My new Next.js project)<br>🤝 I’m looking for help with Collabify<br>🌱 I’m currently learning Next.js and Redis<br>💬 Ask me about MERN Stack and Related Technologies<br>⚡ Fun fact I use tabs over spaces
 
 ---
