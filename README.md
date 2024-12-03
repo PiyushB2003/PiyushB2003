@@ -9,7 +9,7 @@
  ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PiyushB2003&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-## 🌐 Socials:
+## 🌐 Profiles:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyushborkar/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C851.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/piyushborkar95/) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/Piyush2003/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_piyush_borkar_) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/piyush.borkar.9847/)
 
 # 💻 Tech Stack:
