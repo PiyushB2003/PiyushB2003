@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Borkar</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 💫 About Me:<br>
-🔭 I’m currently working at Atina Technology Pvt. Ltd. in Nagpur, India<br>🌱 I’m currently learning AWS & System Design<br>💬 Ask me about MERN Stack, NestJS and Related Technologies<br>⚡ Fun fact I use tabs over spaces
+🔭 I’m currently working at Atina Technology Pvt. Ltd.<br>🌱 I’m currently learning DSA, AWS & System Design<br>💬 Ask me about MERN Stack, NestJS and Related Technologies<br>⚡ Fun fact I use tabs over spaces
 
 ---
  [![](https://visitcount.itsvg.in/api?id=PiyushB2003&icon=0&color=0)](https://visitcount.itsvg.in)
